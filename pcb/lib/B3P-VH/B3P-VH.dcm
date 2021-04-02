@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B3P-VH
+D connector
+K
+F http://media.digikey.com/pdf/Data Sheets/JST PDFs/VH Series.pdf
+$ENDCMP
+#
+#End Doc Library

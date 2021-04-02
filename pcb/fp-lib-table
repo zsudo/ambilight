@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name B3P-VH)(type Legacy)(uri ${KIPRJMOD}/lib/B3P-VH/B3P-VH.mod)(options "")(descr ""))
+  (lib (name arduino)(type Legacy)(uri ${KIPRJMOD}/lib/arduino/arduino.mod)(options "")(descr ""))
+)
